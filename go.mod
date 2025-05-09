@@ -1,6 +1,6 @@
 module github.com/Loopmaas/cfgloader
 
-go 1.24.0
+go 1.24.3
 
 require (
 	github.com/Loopmaas/otel v0.0.2
